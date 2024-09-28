@@ -7,5 +7,3 @@ SOLUTION: During my internship at Capital One, we started experiencing errors in
 FEATURES: 
 - This script searches for a pattern and replaces it with the new changes
 - It is also capable of inserting an entire newline after search string is found
-
-Any feedback will be highly appreciated at sid.chadha17@gmail.com :) 
