@@ -1,4 +1,4 @@
-# Automatic-Routine-Code-Updates-IaC
+# Automatic Routine Code Updates IaC (infrastructure as code)
 
 PROBLEM: Team at work managed their AWS development pipeline using a file that contains the configuration related to the deployment. This file was used by a dev ops tool which is responsible for deployment. As a result, this file had to be present in repositories of all applications developed by the team. 
 
