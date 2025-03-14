@@ -7,6 +7,5 @@ We started experiencing errors in our development pipelines. The fix was adding 
 
 ## Solution: 
 - This script searches for a pattern and replaces it with the new changes
-- It is also capable of inserting an entire newline after search string is found
-- Source code parser can be used to analyse important information such as (number of TODO's, number of single line comments, number of block comments and much more) before merging the source code into build pipeline.
+- Can be used to analyse important information such as (number of TODO's, number of single line comments, number of block comments and much more) before merging the source code into build pipeline.
 - One important use case is not merging the code until all TODO's are removed. Sometimes, engineers write TODO's to take care of trivial tasks later but forget to solve them. This source code parser can come handy in that situation.
